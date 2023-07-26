@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582354240278",
+    "project_id": "the-nit-community-23ac3",
+    "storage_bucket": "the-nit-community-23ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582354240278:android:ed06f55796e7ff2d888637",
+        "android_client_info": {
+          "package_name": "com.example.the_nit_community"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582354240278-e8up3nt8edqhjcf6eier94m6cacmcopk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.the_nit_community",
+            "certificate_hash": "2abb20cd79319017628db393d123f67fe428390a"
+          }
+        },
+        {
+          "client_id": "582354240278-9kd6n68q5apbh63qd6h81vfrnqp9f7b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbQjN5UndhXJxRioEwfIjydDLGUgoSOEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582354240278-9kd6n68q5apbh63qd6h81vfrnqp9f7b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
